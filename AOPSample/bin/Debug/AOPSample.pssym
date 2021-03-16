@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="14" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.8.9.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[AOPSample]AOPSample.ExceptionAspect">
+    <Instance Declaration="#2=M:[AOPSample]AOPSample.Program::Main(System.String[])" Id="18166989d5f3a257">
+      <Target LinesAvoided="2" Tags="premium">
+        <JoinPoint Description="#3=Wrapped by advice(s) OnException" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[AOPSample]AOPSample.ExceptionAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+</Symbols>

@@ -1,0 +1,2 @@
+C:\ProgramData\PostSharp\6.8.9\bin.Release\net472\PostSharp.Compiler.Engine.dll
+D:\Desktop\AOPSample\AOPSample\obj\Debug\PostSharp\postsharp.config
